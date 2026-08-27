@@ -12,3 +12,5 @@ print(f"Shipping Cost: {shipping_cost} USD")
 
 #code is clean  and verified
 
+#code is expandable
+
